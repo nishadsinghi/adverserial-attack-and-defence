@@ -1,4 +1,8 @@
-# Defense against adversarial arts 
+Assignment 3 for ELL888 (Advanced Machine Learning) at IIT Delhi
+
+Gantavya Bhatt (Dept. of Electrical Engineering, IIT Delhi) <br/>
+Hritik Bansal (Dept. of Electrical Engineering, IIT Delhi) <br/>
+Nishad Singhi (Dept. of Electrical Engineering, IIT Delhi) <br/>
 
 ## Problem statement.
 * For two different datasets - 1 coloured and 1 b/w, we made classifiers to study the color sensitivity of a classifier from adversarial attack perspective.
